@@ -1,0 +1,23 @@
+.search .bar{
+    border-radius: 4px;
+}
+
+.left-side{
+    display: inline-block;
+    text-align: left;
+    background-color: lightsteelblue;
+    margin-right: 10px;
+}
+
+.right-side{
+    display: inline-block;
+    background-color: lightsteelblue;
+    text-align: right;
+}
+
+#create_btn{
+    align-content: center;
+    display:block;
+    background: lightgrey;
+    border-radius: 6px;
+}
